@@ -14,7 +14,7 @@ Welcome to my portfolio project! This project showcases my skills and work, buil
 
 ## About the Project
 
-This portfolio is designed to highlight my professional skills and personal projects. It includes sections for my bio, work experience, projects, and contact information. 
+This portfolio is designed to highlight my professional skills and personal projects. It includes sections for my bio, work experience, projects, and contact information.
 
 You can view the live project [here](https://yourusername.github.io/your-repo-name/).
 
@@ -45,4 +45,3 @@ Make sure you have Git installed on your local machine. You can download it from
 1. Clone the repo
    ```sh
    git clone https://github.com/yourusername/your-repo-name.git
-2. Open the index.html file in your browser to view the project.
