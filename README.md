@@ -18,6 +18,8 @@ This portfolio is designed to highlight my professional skills and personal proj
 
 You can view the live project [here](https://kavya1526.github.io/KavyaParikh-Portfolio/).
 
+![image](https://github.com/kavya1526/KavyaParikh-Portfolio/assets/61109166/31609121-7f1d-44bc-85a9-cfe159469f94)
+
 ## Features
 
 - **Responsive Design:** The layout is responsive and works on all devices.
